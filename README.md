@@ -1,6 +1,6 @@
 # Student-Grade-Analysis-Prediction
 
-[![author](https://img.shields.io/badge/author-Gayatri Padmani-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/gayatri-padmani-009496236/)
+[![author](https://img.shields.io/badge/author-Gayatri-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/gayatri-padmani-009496236/)
 [![GitHub followers](https://img.shields.io/github/followers/gayatripadmani?style=social)](https://github.com/gayatripadmani?tab=followers)
 [![GitHub watchers](https://img.shields.io/github/watchers/gayatripadmani/Student-Grade-Analysis-Prediction?style=social)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/watchers)
 [![GitHub stars](https://img.shields.io/github/stars/gayatripadmani/Student-Grade-Analysis-Prediction?style=social)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/stargazers)
