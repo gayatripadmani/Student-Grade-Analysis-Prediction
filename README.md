@@ -1,21 +1,21 @@
 # Student-Grade-Analysis-Prediction
 
-[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
-[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
-[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=social)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/watchers)
-[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=social)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=social)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/network/members)
+[![author](https://img.shields.io/badge/author-Gayatri Padmani-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/gayatri-padmani-009496236/)
+[![GitHub followers](https://img.shields.io/github/followers/gayatripadmani?style=social)](https://github.com/gayatripadmani?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/gayatripadmani/Student-Grade-Analysis-Prediction?style=social)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/gayatripadmani/Student-Grade-Analysis-Prediction?style=social)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/gayatripadmani/Student-Grade-Analysis-Prediction?style=social)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/network/members)
 
-![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?logoColor=9cf&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?logoColor=important&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/gayatripadmani/Student-Grade-Analysis-Prediction?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/gayatripadmani/Student-Grade-Analysis-Prediction?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/gayatripadmani/Student-Grade-Analysis-Prediction?logoColor=important&style=flat-square)
 
-[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/issues?q=is%3Aopen+is%3Aissue)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/pulls?q=is%3Aopen+is%3Apr)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/pulls?q=is%3Apr+is%3Aclosed)
-[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION.svg)](http://hits.dwyl.com/AbhishekMali21/STUDENT-GRADE-ANALYSIS-PREDICTION)
+[![GitHub issues](https://img.shields.io/github/issues/gayatripadmani/Student-Grade-Analysis-Prediction?style=flat-square)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/gayatripadmani/Student-Grade-Analysis-Prediction?style=flat-square)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/gayatripadmani/Student-Grade-Analysis-Prediction?logoColor=yellow&style=flat-square)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/gayatripadmani/Student-Grade-Analysis-Prediction?logoColor=yellow&style=flat-square)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/gayatripadmani/Student-Grade-Analysis-Prediction/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/gayatripadmani/Student-Grade-Analysis-Prediction.svg)](http://hits.dwyl.com/gayatripadmani/Student-Grade-Analysis-Prediction)
 
 ### Objective
 Prediction of the final grade of Portugese high school students
